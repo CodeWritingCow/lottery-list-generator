@@ -13,7 +13,7 @@ JOHN KARCHER,BLOOMSBURG,COLUMBIA,PA,"$1,000,000 DIAMOND DAZZLER","$1,000.00"
 
 And makes a new txt file (rtk_pr01prizeclaimantreport_201405.txt) like this:
 
-• John Karcher, $1,000 from $1,000,000 Diamond Dazzler
+* John Karcher, $1,000 from $1,000,000 Diamond Dazzler
 
 
 ## Requirements
@@ -21,7 +21,7 @@ Get a monthly list of winners from the Pennsylvania Lottery by making a Right to
 
 
 ## Things to Work on
-• Count number of winners per municipality.
-• Sort lists of municipalities in alphabetical order.
-• Sort winners' last names alphabetically.
-• Convert pdf into csv.
+* Count number of winners per municipality.
+* Sort lists of municipalities in alphabetical order.
+* Sort winners' last names alphabetically.
+* Convert pdf into csv.
