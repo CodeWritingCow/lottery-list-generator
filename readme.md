@@ -1,9 +1,8 @@
 # Lottery List Generator
-_By Gary Pang, "CodeWritingCow"_
 
 
 ## What It Does
-This Python program produces a txt file of lottery winners within the coverage area of the Press Enterprise daily newspaper in northeastern Pennsylvania. I am a reporter who wrote this program to make my work easier. Every month, I had to read a 200-page report for an hour to find local winners' names. Now, this program can do that in less than a second!
+This Python program produces a txt file of lottery winners within the coverage area of the Press Enterprise daily newspaper in northeastern Pennsylvania. I was a reporter who wrote this program to make my work easier. Every month, I had to read a 200-page report for an hour to find local winners' names. Now, this program can do that in less than a second!
 
 
 ## How It Works
